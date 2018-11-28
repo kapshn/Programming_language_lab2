@@ -1,0 +1,27 @@
+﻿body
+{
+    font-family:monaco;
+}
+h2{
+	margin:3px;
+}
+div{
+	display:inline;
+}
+ul{
+	display:table;
+}
+li{
+	float:left;
+	clear:both;
+	padding-bottom:5px;
+}
+li div{
+	margin:3px;
+}
+input{
+	margin:3px;
+}
+#create_folder_div{
+	margin:3px;
+}
